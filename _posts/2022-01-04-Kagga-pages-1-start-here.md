@@ -1,10 +1,7 @@
 ---
 published: true
 ---
----
-layout: post
-title: So this is Kagga Pages
----
+
 
 ## So this is Kagga Pages. 
 
