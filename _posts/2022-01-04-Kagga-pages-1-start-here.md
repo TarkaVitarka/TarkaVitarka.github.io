@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 ## So this is Kagga Pages. 
 
 If you have scrolled here you might be curious about what Kagga pages are - Kagga pages are my ruminations or understandings of a Modern Kannada Epic Poem called [Mankutimmana Kagga](https://www.goodreads.com/book/show/17936113-mankutimmana-kagga) written by Dr D V Gundappa, first published about 80 years back from today.
