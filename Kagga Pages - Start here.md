@@ -1,3 +1,7 @@
+layout: page
+permalink: /StartHere/
+
+
 ## Kagga Pages
 
 So this is Kagga Pages. 
