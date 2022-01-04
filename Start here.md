@@ -1,6 +1,7 @@
+---
 layout: page
 permalink: /StartHere/
-
+---
 
 ## Kagga Pages
 
